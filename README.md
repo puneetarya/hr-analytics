@@ -1,2 +1,3 @@
 # Supervised Learning Project on Human Resource Analytics
-Decision Tree Classifier is used
+* Analyses of Employee churn
+* Decision Tree Classifier for predicting employee churn
